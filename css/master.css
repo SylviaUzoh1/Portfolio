@@ -7422,9 +7422,9 @@ h6 {
   background: #1d1d1d;
   border-color: #090a0c;
 }
-.contact-info:not(:first-child) {
+/* .contact-info:not(:first-child) {
   margin-top: 20px;
-}
+} */
 .contact-info .icon {
   width: 59px;
   height: 40px;
